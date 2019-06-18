@@ -6,8 +6,6 @@
 * Reactjs && ES6 && webpack build up the home page of JD
 * Node.js
 
-![Mou icon](./jd.png)
-
 ## install and run
 
 clone
