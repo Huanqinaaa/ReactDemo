@@ -1,4 +1,5 @@
 # React-Demo
+# Reference links: https://reactjs.org/; http://www.ruanyifeng.com/blog/2015/03/react.html; https://www.runoob.com/react/react-tutorial.html
 
 ### Reactjs && Node
 
