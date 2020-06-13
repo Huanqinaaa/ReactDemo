@@ -7,7 +7,7 @@ let fs = require('fs');
 let dataBase = null;
 
 /**
- * @return {null} [none]
+ * @return {null} [null]
  */
 let readFileData = () => {
 	let promise = new Promise((resolve, reject) => {
